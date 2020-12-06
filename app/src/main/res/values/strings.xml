@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">First Apllication</string>
+    <string name="profile_nama">Sutan Iqbal Pramudya Chandra</string>
+    <string name="postingan">25</string>
+    <string name="post">Postingan</string>
+    <string name="followers">200K</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="mengikuti">56K</string>
+    <string name="follow">Mengikuti</string>
+    <string name="business">Business</string>
+    <string name="promosikan">promosikan</string>
+    <string name="edit_profil">Edit Profil</string>
+</resources>
