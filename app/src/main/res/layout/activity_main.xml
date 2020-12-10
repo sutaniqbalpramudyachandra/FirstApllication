@@ -156,7 +156,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="3dp"
-        android:text="Follow untuk mengetahui tentang saya lebih banyak"
+        android:text="@string/follow_untuk_mengetahui_tentang_saya_lebih_banyak"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
