@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FirstApllication">
+        <activity android:name=".ResultActivity"></activity>
+        <activity android:name=".ParcleActivity" />
+        <activity android:name=".ExplicitIntentActivity" />
+        <activity android:name=".ExplicitIntent" />
+        <activity android:name=".SimpleActivity" />
+        <activity android:name=".MoveActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
